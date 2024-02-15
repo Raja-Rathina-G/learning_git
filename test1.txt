@@ -1,0 +1,6 @@
+name : Rajarathina
+spouse: Praveen
+father: Ganesh
+mother: Sumathi
+daughter: Prathna
+son: Prathneen
